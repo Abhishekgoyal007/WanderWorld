@@ -99,6 +99,9 @@ Follow these steps to run the project locally:
 ### Map Integration 🗺️
 ![Map View](https://via.placeholder.com/800x400?text=Map+Integration+Screenshot)
 
+### Listing View 📃
+![Map View](https://via.placeholder.com/800x400?text=Map+Integration+Screenshot)
+
 ---
 
 ## Folder Structure 📂
