@@ -128,10 +128,6 @@ app.use((err,req,res,next)=>{
     // res.status(statusCode).send(message);
 })
 
-app.get('*',(req,res)=>{
-    res.send("Bad Request");
-})
-
 app.listen(port,()=>{
     console.log(`Server is listening at port: ${port}`);
 })
