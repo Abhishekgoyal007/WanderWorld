@@ -1,4 +1,4 @@
-# Wanderlust BnB 🌍🏠
+# WanderWorld BnB 🌍🏠
 
 Welcome to **Wanderlust BnB**, a platform where users can list their properties for rent and find amazing places to stay. With features like property listing, user authentication, map integration, and cloud storage, Wanderlust BnB aims to simplify the rental process for both hosts and guests.
 
