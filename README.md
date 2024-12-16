@@ -91,16 +91,16 @@ Follow these steps to run the project locally:
 ## Screenshots 📸
 
 ### Homepage 🏠
-![Homepage](https://via.placeholder.com/800x400?text=Homepage+Screenshot)
+![Homepage](https://github.com/Abhishekgoyal007/WanderWorld/blob/main/assets/image.png?raw=true)
 
 ### Create a Listing 📋
-![Create Listing](https://via.placeholder.com/800x400?text=Create+Listing+Screenshot)
+![Create Listing](https://github.com/Abhishekgoyal007/WanderWorld/blob/main/assets/image%20copy.png?raw=true)
 
 ### Map Integration 🗺️
-![Map View](https://via.placeholder.com/800x400?text=Map+Integration+Screenshot)
+![Map View](https://github.com/Abhishekgoyal007/WanderWorld/blob/main/assets/image%20copy%202.png?raw=true)
 
 ### Listing View 📃
-![Map View](https://via.placeholder.com/800x400?text=Map+Integration+Screenshot)
+![Map View](https://github.com/Abhishekgoyal007/WanderWorld/blob/main/assets/image%20copy%203.png?raw=true)
 
 ---
 
