@@ -1,6 +1,6 @@
-# Wanderlust BnB 🌍🏠
+# WanderWorld BnB 🌍🏠
 
-Welcome to **Wanderlust BnB**, a platform where users can list their properties for rent and find amazing places to stay. With features like property listing, user authentication, map integration, and cloud storage, Wanderlust BnB aims to simplify the rental process for both hosts and guests.
+Welcome to **WanderWorld BnB**, a platform where users can list their properties for rent and find amazing places to stay. With features like property listing, user authentication, map integration, and cloud storage, WanderWorld BnB aims to simplify the rental process for both hosts and guests.
 
 ---
 
@@ -84,23 +84,23 @@ Follow these steps to run the project locally:
    ```
 
 5. Access the Application:
-   Open your browser and navigate to `http://localhost:3000`.
+   Open your browser and navigate to `http://localhost:8080`.
 
 ---
 
 ## Screenshots 📸
 
 ### Homepage 🏠
-![Homepage](https://via.placeholder.com/800x400?text=Homepage+Screenshot)
+![Homepage](https://github.com/Abhishekgoyal007/WanderWorld/blob/main/assets/image.png?raw=true)
 
 ### Create a Listing 📋
-![Create Listing](https://via.placeholder.com/800x400?text=Create+Listing+Screenshot)
+![Create Listing](https://github.com/Abhishekgoyal007/WanderWorld/blob/main/assets/image%20copy.png?raw=true)
 
 ### Map Integration 🗺️
-![Map View](https://via.placeholder.com/800x400?text=Map+Integration+Screenshot)
+![Map View](https://github.com/Abhishekgoyal007/WanderWorld/blob/main/assets/image%20copy%202.png?raw=true)
 
 ### Listing View 📃
-![Map View](https://via.placeholder.com/800x400?text=Map+Integration+Screenshot)
+![Map View](https://github.com/Abhishekgoyal007/WanderWorld/blob/main/assets/image%20copy%203.png?raw=true)
 
 ---
 
